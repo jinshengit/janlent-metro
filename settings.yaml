@@ -1,0 +1,6 @@
+connection: root:janlent1228@tcp(192.168.0.118:3306)/sh_metro?charset=utf8&parseTime=true&loc=Local
+db_type: mysql
+start_time: 6:00:00
+end_time: 23:00:00
+duration: 5m
+redis_address: 192.168.0.118:6379
